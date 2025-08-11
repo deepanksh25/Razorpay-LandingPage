@@ -1,0 +1,13 @@
+.wrapper{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.Heading{
+    height: 80%;
+    width: 50%;
+    color: blue;
+    
+    margin-left: auto;
+    background-image: url("./images/github-icon.svg");
+}
