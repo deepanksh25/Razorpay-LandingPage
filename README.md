@@ -1,5 +1,5 @@
 Razorpay Landing Page UI Clone
-A fully replicated Razorpay landing page UI built using HTML and Tailwind CSS. This project focuses on recreating the original Razorpay layout, styling, and responsive design purely on the frontend. No backend or payment functionality is included.
+A fully replicated Razorpay landing page UI built using HTML and Tailwind CSS. This project focuses on recreating the original Razorpay layout, styling purely on the frontend. No backend or payment functionality is included.
 
 🚀 Features
 Pixel-perfect replication of Razorpay's official landing page
