@@ -8,7 +8,7 @@ Responsive design using Tailwind CSS utilities
 
 Clean and maintainable HTML structure
 
-Optimized for desktop and mobile views
+Optimized for desktop views
 
 🛠️ Tech Stack
 HTML5
